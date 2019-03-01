@@ -1,0 +1,11 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference android:title="Base URL"
+        android:key="BASE_URL"
+        android:hint="https://YOURSITENAME.herokuapp.com"/>
+    <EditTextPreference android:title="API Secret"
+        android:key="API_SECRET"
+        android:hint="YOURSECRET1234"/>
+
+
+</PreferenceScreen>
